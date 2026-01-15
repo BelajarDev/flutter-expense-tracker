@@ -60,12 +60,6 @@ lib/
 5. **Kesehatan** 🏥 - Ungu
 6. **Lainnya** 📦 - Biru Muda
 
-## 📸 Tampilan Aplikasi
-
-| Dashboard                                                                      | Tambah Data                                                              | Daftar Pengeluaran                                                       |
-| ------------------------------------------------------------------------------ | ------------------------------------------------------------------------ | ------------------------------------------------------------------------ |
-| ![Dashboard](https://via.placeholder.com/300x600/6C63FF/FFFFFF?text=Dashboard) | ![Tambah](https://via.placeholder.com/300x600/FF6584/FFFFFF?text=Tambah) | ![Daftar](https://via.placeholder.com/300x600/36D1DC/FFFFFF?text=Daftar) |
-
 ## 🤝 Berkontribusi
 
 1. Fork repository
